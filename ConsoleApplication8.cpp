@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "iostream"
-#include "time.h"
+#inclm,jgjhk,jkgkjnmkgkjhude "time.h"
 
 using namespace std;
 
